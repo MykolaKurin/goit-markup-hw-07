@@ -1,24 +1,11 @@
-/*Projects*/
-.filters-container {
-  display: flex;
-  justify-content: center;
-  margin-bottom: 50px;
-}
 .filters {
   display: flex;
   flex-direction: row;
   justify-content: center;
   margin-top: 94px;
   margin-bottom: 50px;
-}
-.filters__item:not(:last-child) {
-  margin-right: 8px;
-}
 
-.portfolio-container {
-  display: flex;
-  margin: 0px;
-}
-.portfolio-section {
-  margin-top: 94px;
+  &__item:not(:last-child) {
+    margin-right: 8px;
+  }
 }
