@@ -1,3 +1,3 @@
-# goit-markup-hw08
+# goit-markup-hw07
 
-Technical homework #8
+Technical homework #7
